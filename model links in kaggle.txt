@@ -1,0 +1,27 @@
+At stage I:
+
+
+Now for notebook: catch_the_st_1ModernBert:
+    cbt_longContext_synthetic_datset: https://www.kaggle.com/datasets/arafahmed98229/cbt-longcontext-synthetic-datset/data
+Cognitive Distortion detetction dataset : https://www.kaggle.com/datasets/sagarikashreevastava/cognitive-distortion-detetction-dataset
+Synthetic Cognitive Distortion Dataset : https://www.kaggle.com/datasets/arafahmed98/df-masterno-aug/versions/1/data
+Synthetic Cognitive Distortion Dataset (SCDD-2.2k) : https://www.kaggle.com/datasets/arafahmed98229/synthetic-cognitive-distortion-dataset-scdd-2-2k
+though not used: taf_synthetic : https://www.kaggle.com/datasets/arafahmed98229/taf-synthetic
+Model was ModernBert large
+
+Now for notebook : catch_the_st_1MentalRobertalarge:
+
+Synthetic Cognitive Distortion Dataset : https://www.kaggle.com/datasets/arafahmed98/df-masterno-aug/versions/1
+Model is mental roberta large. 
+
+Now at the Stage II MLM domain adaptation I uploaded the dataset Reddit Mental Health dataset from my laptop 
+after downloading it from a website. i will try to make it reproducable but here is the official
+kaggle link for it: 
+Reddit Mental Health Dataset (RMHD) : https://www.kaggle.com/datasets/entenam/reddit-mental-health-dataset
+
+
+For the ensemble notebook named (SOTA ensemble cbt.ipynb ): 
+ frozen_ensemble_info dataset: https://www.kaggle.com/datasets/arafahmed98/frozen-ensemble-artifacts/data
+for model ensemble mental roberta: https://www.kaggle.com/models/arafahmed98/ensemble-mental-roberta/settings
+for model ensemble moderbBert: https://www.kaggle.com/models/arafahmed98/pmultymodernbert/transformers/vv/1
+
