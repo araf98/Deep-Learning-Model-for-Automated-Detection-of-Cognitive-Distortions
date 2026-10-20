@@ -23,15 +23,12 @@ An advanced multi-stage machine learning pipeline for cognitive distortion detec
 
 ---
 
-## Stage II: MLM Domain Adaptation
+
+## Stage II: MLM Domain Adaptation, Stage III: Advanced Stages,
+## and Stage IV Ensembling
 * **Context:** Masked Language Modeling (MLM) domain adaptation phase utilizing the Reddit Mental Health dataset uploaded directly from local storage (though also available on Kaggle via the original author link).
 * **Dataset:**
   * [Reddit Mental Health Dataset (RMHD)](https://www.kaggle.com/datasets/entenam/reddit-mental-health-dataset)
-
----
-
-## Stage III: Advanced Stages, Ensembling & Multi-Task Learning
-
 ### 1. Notebook: `mentalRobertaStagesAndEnsemble`
 * **Datasets:**
   * [counselchat_data](https://www.kaggle.com/datasets/weiting016/counselchat-data)
